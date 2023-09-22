@@ -7,7 +7,7 @@
    </h3>
  </div>
 
-![](https://img.shields.io/badge/Nestjs?style=flat&logo=nestjs&logoColor=white&color=E0234E)
+![](https://img.shields.io/badge/Nestjs-informational?style=flat&logo=nestjs&logoColor=white&color=E0234E)
 ![](https://img.shields.io/badge/Html-informational?style=flat&logo=html5&logoColor=white&color=f57f17)
 ![](https://img.shields.io/badge/Css-informational?style=flat&logo=css3&logoColor=white&color=0000FF)
 ![](https://img.shields.io/badge/-Bootstrap-color=8E24AA?style=flat&logo=bootstrap&logoColor=white&color=8E24AA)
