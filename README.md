@@ -19,7 +19,6 @@
 ![](https://img.shields.io/badge/Angular-informational?style=flat&logo=angular)
 ![](https://img.shields.io/badge/Php-informational?style=flat&logo=php)
 ![](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
