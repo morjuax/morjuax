@@ -31,7 +31,6 @@
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat&logo=redis&logoColor=white)
-![](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=Databricks&logoColor=white)
 ![](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white)
 ![](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white)
 ![](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
