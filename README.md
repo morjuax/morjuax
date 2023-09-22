@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=morjuax&style=flat&color=blue)
  <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=aaaaaa&center=true&vCenter=true&width=435&lines=Hi,++I'm+JC" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=aaaaaa&center=true&vCenter=true&width=435&lines=Hi,++I'm+Juan+Moreno" alt="Typing SVG" /></a>
  </p>
 ### Hi there 👋
 
