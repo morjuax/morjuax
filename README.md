@@ -8,6 +8,7 @@
  </div>
 
 ![](https://img.shields.io/badge/Nestjs-informational?style=flat&logo=nestjs&logoColor=white&color=E0234E)
+![](https://img.shields.io/badge/Angular-informational?style=flat&logo=angular)
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Html-informational?style=flat&logo=html5&logoColor=white&color=f57f17)
 ![](https://img.shields.io/badge/Css-informational?style=flat&logo=css3&logoColor=white&color=0000FF)
@@ -17,7 +18,6 @@
 ![](https://img.shields.io/badge/Scss-informational?style=flat&logo=scss3&logoColor=white&color=cf649a)
 ![](https://img.shields.io/badge/Figma-informational?style=flat&logo=figma&logoColor=white&color=808080)
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=react)
-![](https://img.shields.io/badge/Angular-informational?style=flat&logo=angular)
 ![](https://img.shields.io/badge/Php-informational?style=flat&logo=php)
 ![](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
