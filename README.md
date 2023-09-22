@@ -45,7 +45,7 @@
 
 ![morjuax's GitHub stats](https://github-readme-stats.vercel.app/api?username=morjuax&show_icons=true&theme=github_dark&count_private=true&show_icons=true)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morjuax&langs_count=10&theme=github_dark&show_owner=true)](https://github.com/sebavidal10/github-readme-stats)
 
 
 
