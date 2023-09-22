@@ -41,7 +41,9 @@
 ![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 
-### Hi there 👋
+## 📈 Github Stats
+
+![morjuax's GitHub stats](https://github-readme-stats.vercel.app/api?username=morjuax&show_icons=true&theme=github_dark&count_private=true&show_icons=true)
 
 
 
