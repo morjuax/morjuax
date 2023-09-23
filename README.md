@@ -8,7 +8,7 @@
  </div>
 
 ![](https://img.shields.io/badge/Nestjs-informational?style=flat&logo=nestjs&logoColor=white&color=E0234E)
-![](https://img.shields.io/badge/Nextjs-informational?style=flat&logo=nextjs&logoColor=white&color=#000000)
+![](https://img.shields.io/badge/Nextjs-informational?style=flat&logo=nextdotjs&logoColor=white&color=#000000)
 ![](https://img.shields.io/badge/Angular-informational?style=flat&logo=angular)
 ![](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Express.js-404D59?style=flat)
